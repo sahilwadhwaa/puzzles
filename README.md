@@ -8,7 +8,7 @@ Complete app link- https://puzzles-socialmedia.netlify.app/ (takes a minute to l
 
 To install Puzzles, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/puzzles.git
+1. Clone the repository: git clone https://github.com/sahilwadhwaa/puzzles.git
 2. Navigate to the project directory: cd puzzles
 3. Install the dependencies: npm install
 4. Start the development server: npm run dev
