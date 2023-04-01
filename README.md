@@ -2,7 +2,7 @@
 
 Puzzles is a social media platform built using the MERN stack (MongoDB, Express, React, and Node.js). Users can create an account, post status updates and images on their social media wall, add and remove friends, and toggle between dark and light mode. The app uses the bcrypt package for authentication and authorization, jsonwebtoken for creating JSON web tokens, Multer for handling form data, and Mongoose for defining database schemas.
 
-Complete app link- https://puzzles-socialmedia.netlify.app/
+Complete app link- https://puzzles-socialmedia.netlify.app/ (takes a minute to log in for the first time)
 
 ## Installation
 
@@ -28,6 +28,15 @@ Puzzles was built using the following technologies:
 * View your friends' profiles
 * Toggle between dark and light mode
 * Like other posts
+
+## Future Scope
+
+These are some of the functionalities that can be added in the future:
+
+* Optimizing the app, since it takes a long time to log in for the first time.
+* Messaging your friends
+* Checking notifications
+* Commenting on other's posts
 
 ## Contributing
 
