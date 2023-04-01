@@ -17,7 +17,7 @@ To install Puzzles, follow these steps:
 
 Puzzles was built using the following technologies:
 
-* Backend: Node.js with Express framework, MongoDB with Mongoose, bcrypt, jsonwebtoken, Morgan, and Helmet
+* Backend: Node.js with Express framework, MongoDB with Mongoose, bcrypt, jsonwebtoken, Morgan, Multer and Helmet
 * Frontend: React with Redux Toolkit, MUI framework, React Routers, Redux Persist, React-Dropzone, Formik, and Yup
 
 ## Functionalities
