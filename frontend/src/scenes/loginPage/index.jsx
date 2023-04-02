@@ -17,7 +17,7 @@ const LoginPage = () => {
                     fontSize="32px"
                     color="primary"
                 >
-                    Sociopedia
+                    Puzzles
                 </Typography>
         </Box>
 
